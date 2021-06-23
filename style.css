@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Dancing Script', cursive;;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 10px;
+    cursor: pointer;
+    background: rgb(232, 250, 67);
+}
+
+.link {
+    color: #fc0341;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    display: inline;
+}
+
+p {
+    text-align:justify;
+    font-size: 18px;
+}
+
+.profile{
+    border-style: solid;
+    border-color: rgb(255, 136, 0);
+    border-width: 5px;
+
+}
+
+#section1{
+    margin-top: 50px;
+}
+
